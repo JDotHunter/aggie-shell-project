@@ -1,0 +1,5 @@
+cd ..
+path /bin /usr/bin
+cd .. > /home/redirection_test.txt
+path
+exit
